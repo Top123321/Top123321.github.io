@@ -1,6 +1,6 @@
--Database Management System (DBMS)
+Database Management System (DBMS)
 
-  -CISSP Glossary - Student Guide 
+-CISSP Glossary - Student Guide 
 
 -A suite of application programs that typically manages large, structured sets of persistent data.
 
