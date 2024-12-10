@@ -3,7 +3,7 @@ Database Management System (DBMS)
 
 -CISSP Glossary - Student Guide 
 
-      -A suite of application programs that typically manages large, structured sets of persistent data.
+  -A suite of application programs that typically manages large, structured sets of persistent data.
 
 -ChatGPT
 
